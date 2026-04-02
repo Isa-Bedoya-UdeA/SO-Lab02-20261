@@ -189,10 +189,20 @@ Al final el script imprime el total de pruebas pasadas y fallidas, y retorna com
 
 ## Problemas
 
+No se presentaron problemas durante la solución del presente laboratorio.
+
+---
+
+## Video
+
 
 
 ---
 
 ## Manifiesto de transparencia
 
+Se utilizó IA generativa (Claude Sonnet 4.6) en los siguientes puntos del desarrollo:
 
+* **Creación del test:** Los casos de prueba se diseñaron manualmente, pero se usó la IA para reunirlos en un solo `.sh` con formato para mejor visualización de los resultados.
+* **Redacción del archivo README.md:** Las secciones de *Cómo ejecutar*, *Documentación* y *Pruebas* fueron generadas con IA a partir del código del laboratorio.
+* **Comentarios y documentación:** Se usó IA generativa para añadir comentarios en los archivos del laboratorio para mejor documentación del proyecto a partir del código creado manualmente.
