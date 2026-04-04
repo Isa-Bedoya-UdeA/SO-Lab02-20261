@@ -29,7 +29,7 @@ int main(int argc, char *argv[])
     }
 
     // ---- 2. Open input source ------------------------------
-    FILE *input       = stdin;
+    FILE *input = stdin;
     int   interactive = (argc == 1); // true → interactive mode
 
     if (!interactive) {
@@ -44,7 +44,7 @@ int main(int argc, char *argv[])
     path_init();
 
     // ---- 4. Read-eval loop ---------------------------------
-    char *line    = NULL;
+    char *line = NULL;
     size_t buf_len = 0;
     ssize_t nread;
 
