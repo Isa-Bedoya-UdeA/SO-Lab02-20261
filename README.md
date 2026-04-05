@@ -195,7 +195,7 @@ No se presentaron problemas durante la solución del presente laboratorio.
 
 ## Video
 
-
+[https://drive.google.com/file/d/1rX1mO0a6O7G_KT0vi52EJnx2GiiSz0b0/view?usp=sharing](https://drive.google.com/file/d/1rX1mO0a6O7G_KT0vi52EJnx2GiiSz0b0/view?usp=sharing)
 
 ---
 
